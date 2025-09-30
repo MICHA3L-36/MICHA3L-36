@@ -6,9 +6,9 @@
 
 ## Hi there 👋
 
-MICHA3L | 💻 Security Engineer based in Cincinnati, OH | 🌏 Cincinnati / Washington, D.C.
-About me
-Enthusiast for Active Directory PenTesting, studying for CPTS :-)
+MICHA3L | 💻 Security Engineer based in Cincinnati, OH | 🌏 Cincinnati / Washington, D.C. \n
+About me \n
+Enthusiast for Active Directory PenTesting, studying for CPTS :-) \n
 
 ⚡ NetExec appreciator
 🎓 Graduate M.S. Cybsecurity @WGU
