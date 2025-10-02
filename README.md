@@ -16,7 +16,7 @@ About me <br>
 ⚡ NetExec appreciator <br>
 🎓 Graduate M.S. Cybsecurity @WGU<br>
 🎖 Member of HackSmarter CTF team @HTB<br>
-👀 I'll be posting some custom scripts and CTF writ-ups here<br>
+👀 I'll be posting some custom scripts and CTF write-ups here<br>
 💬 Ask me about ... Netexec<br>
 🌱 This week I am studying IDOR exploits @HTBAcademy<br>
 
