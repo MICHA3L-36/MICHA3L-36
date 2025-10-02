@@ -18,7 +18,7 @@ About me <br>
 🎖 Member of HackSmarter CTF team @HTB<br>
 👀 I'll be posting some custom scripts and CTF write-ups here<br>
 💬 Ask me about ... Netexec<br>
-🌱 This week I am studying IDOR exploits @HTBAcademy<br>
+🌱 This week I am studying Jenkins exploits @HTBAcademy<br>
 
 <!--
 **MICHA3L-36/MICHA3L-36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
