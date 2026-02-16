@@ -8,7 +8,7 @@
 </div>
 <div align="left">
 <h3>💻 Security Engineer based in Cincinnati, OH <br>
-🌱 Enthusiast for Active Directory PenTesting, studying for CPTS :-)<br>
+🌱 Enthusiast for Active Directory PenTesting, studying for OSEP :-)<br>
 🌏 Cincinnati / Washington, D.C.</h3> <br>
 </div>
 
